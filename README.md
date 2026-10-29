@@ -49,7 +49,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-## 🛠️ My Favorite Tools
+<!--## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming and Markup Languages
 
@@ -122,6 +122,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor%20AI-000000.svg?logo=cursor-ai&logoColor=white"></a>
 </p>
+--> 
 
 ## 📊 Github Stats
 
