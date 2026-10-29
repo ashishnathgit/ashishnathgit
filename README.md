@@ -127,15 +127,16 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 📊 Github Stats
 
 <!-- https://github.com/stats-organization/github-stats-extended --> 
-<details> <summary>💻 GitHub Profile Stats</summary> <br/> <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Ashish's Github Stats" src="https://github-stats-extended.vercel.app/api?username=ashishnathgit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Ashish's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishnathgit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> <br/> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </details>
+ <summary>💻 GitHub Profile Stats</summary> <br/> <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Ashish's Github Stats" src="https://github-stats-extended.vercel.app/api?username=ashishnathgit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Ashish's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishnathgit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> <br/> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<details>
+
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashish's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishnathgit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+   <a href="https://github.com/rodriaum/github-readme-activity-graph"><img alt="Ashish's Activity Graph" src="https://github-act-graph.rodriaum.com/graph?username=ashishnathgit&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
-</details>
+
 
 ## 🙋‍♀️ Let's Connect
 
